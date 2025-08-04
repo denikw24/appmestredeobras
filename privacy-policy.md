@@ -6,75 +6,102 @@
 </head>
 <body>
   <h1>Mestre de Obra</h1>
-  <p> 
-    Bem-vindo ao site oficial do app Mestre de Obra.
 
-Nossa equipe criou o aplicativo **Mestre de Obra** sendo um serviço gratuito com opção de contratação de assinaturas que concedem acesso a recursos exclusivos. Estes SERVIÇOS são fornecidos por Denilson Santos schedule e são destinados para uso como estão.
+  <section>
+    <p>
+      Bem-vindo ao site oficial do app Mestre de Obra.
+      Nossa equipe criou o aplicativo <strong>Mestre de Obra</strong> como um serviço gratuito com opção de assinatura que concede acesso a recursos exclusivos. Estes serviços são fornecidos por Denilson Santos Schedule e são destinados para uso como estão.
+    </p>
 
-Esta página é usada para informar os visitantes sobre as políticas nossas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar o nosso Serviço.
+    <p>
+      Esta página informa os visitantes sobre nossas políticas de coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso serviço.
+    </p>
 
-Se você optar por usar os nossos serviços, concordará com a coleta e uso de informações relacionadas a essa política. As informações pessoais coletadas por nós são usadas para fornecer e melhorar os serviços. Nós não usararemos, nem compartilhararemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
+    <p>
+      Ao usar nossos serviços, você concorda com a coleta e uso de informações conforme esta política. As informações pessoais coletadas são usadas para fornecer e melhorar os serviços. Nós não usaremos nem compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
+    </p>
 
-Os termos usados ​​nesta Política de Privacidade têm os mesmos significados que os nossos Termos e Condições.
+    <p>
+      Os termos usados nesta Política de Privacidade têm os mesmos significados que os nossos Termos e Condições.
+    </p>
+  </section>
 
-## Coleta de Informações Pessoais
+  <section>
+    <h2>Coleta de Informações Pessoais</h2>
+    <p>
+      Para uma melhor experiência, podemos exigir que você forneça informações identificáveis, como o ID de publicidade do Android e iOS. Essas informações serão retidas e usadas conforme esta política.
+    </p>
+    <p>O aplicativo utiliza serviços de terceiros que podem coletar informações para identificá-lo:</p>
+    <ul>
+      <li><a href="https://policies.google.com/privacy">Google Play Services</a></li>
+      <li><a href="https://firebase.google.com/support/privacy">Firebase Analytics</a></li>
+      <li><a href="https://www.apple.com/legal/privacy/">Apple Store Service</a></li>
+    </ul>
+  </section>
 
-Para uma melhor experiência, ao usar nossos serviços, podemos exigir que você nos forneça algumas informações pessoalmente identificáveis, incluindo, entre outros, o ID de publicidade do Android e iOS. As informações que solicitamos serão retidas por nós e usadas conforme descrito nesta política de privacidade. O aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo.
+  <section>
+    <h2>Dados de Registro</h2>
+    <p>
+      Em caso de erro no aplicativo, coletamos dados como IP do dispositivo, nome, versão do sistema, configuração do app, data e hora do uso, entre outros.
+    </p>
+  </section>
 
-### Links para políticas de privacidade de provedores de serviços de terceiros usados pelo aplicativo:
+  <section>
+    <h2>Cookies</h2>
+    <p>
+      Este serviço não usa cookies diretamente, mas pode usar bibliotecas de terceiros que os utilizam. Você pode aceitar ou recusar cookies, mas isso pode limitar o uso de partes do serviço.
+    </p>
+  </section>
 
-- [Google Play Services](https://policies.google.com/privacy)
-- [Firebase Analytics](https://firebase.google.com/support/privacy)
-- [Apple Store Service](https://www.apple.com/legal/privacy/)
+  <section>
+    <h2>Provedores de Serviços</h2>
+    <p>
+      Podemos empregar terceiros para facilitar e analisar o uso do serviço. Eles têm acesso às suas informações pessoais apenas para executar tarefas em nosso nome e são proibidos de usá-las para outros fins.
+    </p>
+  </section>
 
-## Dados de Registro
+  <section>
+    <h2>Segurança</h2>
+    <p>
+      Usamos meios comercialmente aceitáveis para proteger suas informações, mas nenhum método é 100% seguro.
+    </p>
+  </section>
 
-Queremos informá-lo que sempre que você usar nossos serviços, no caso de um erro no aplicativo, coletamos dados e informações (por meio de produtos de terceiros) em seu telefone, chamados Dados de Registro. Esses dados podem incluir informações como endereço IP do dispositivo, nome do dispositivo, versão do sistema operacional, configuração do aplicativo ao utilizar nossos serviços, a hora e a data do seu uso do serviço e outras estatísticas.
+  <section>
+    <h2>Links para Outros Sites</h2>
+    <p>
+      Este serviço pode conter links externos. Recomendamos revisar a política de privacidade desses sites, pois não temos controle sobre eles.
+    </p>
+  </section>
 
-## Cookies
+  <section>
+    <h2>Privacidade de Crianças</h2>
+    <p>
+      Este serviço não é destinado a menores de 13 anos. Se descobrirmos que uma criança nos forneceu dados, iremos excluí-los imediatamente.
+    </p>
+  </section>
 
-Cookies são arquivos com uma pequena quantidade de dados que são comumente usados ​​como identificadores exclusivos anônimos. Eles são enviados para o seu navegador a partir dos sites que você visita e armazenados na memória interna do seu dispositivo.
+  <section>
+    <h2>Alterações a Esta Política de Privacidade</h2>
+    <p>
+      Podemos atualizar esta política periodicamente. As alterações entram em vigor após a publicação nesta página.
+    </p>
+  </section>
 
-Este serviço não usa esses “cookies” explicitamente. No entanto, o aplicativo pode usar código de terceiros e bibliotecas que utilizam “cookies” para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para o seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
+  <section>
+    <h2>Contato</h2>
+    <p>
+      Dúvidas ou sugestões? Entre em contato pelo e-mail:  
+      <a href="mailto:denilsondesenvolvimentosapp@gmail.com">denilsondesenvolvimentosapp@gmail.com</a>
+    </p>
+  </section>
 
-## Provedores de Serviços
-
-Podemos empregar empresas e indivíduos de terceiros por diversas razões:
-
-- Para facilitar nosso serviço;
-- Para fornecer o serviço em nosso nome;
-- Para executar serviços relacionados ao serviço; ou
-- Para nos ajudar a analisar como nosso Serviço é usado.
-
-Queremos informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. O motivo é executar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outra finalidade.
-
-## Segurança
-
-Valorizamos sua confiança ao nos fornecer suas Informações Pessoais, assim, estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se de que nenhum método de transmissão pela Internet ou de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
-
-## Links para Outros Sites
-
-Este serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Observe que esses sites externos não são operados por nós. Portanto, aconselhamos fortemente que você revise a Política de Privacidade desses sites. Não temos controle e não assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
-
-## Privacidade de Crianças
-
-Este Serviço não trata ninguém com idade inferior a 13 anos. Não coletamos intencionalmente informações pessoalmente identificáveis ​​de crianças menores de 13 anos. No caso de descobrirmos que uma criança com menos de 13 anos nos forneceu informações pessoais, iremos excluir imediatamente essas informações de nossos servidores. Se você for pai/mãe ou responsável legal e souber que seu filho nos forneceu informações pessoais, entre em contato para que possamos tomar as providências necessárias.
-
-## Alterações a Esta Política de Privacidade
-
-Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, aconselhamos que você revise esta página periodicamente para quaisquer alterações. Iremos notificá-lo de quaisquer mudanças publicando a nova Política de Privacidade nesta página. Essas alterações entram em vigor imediatamente após serem publicadas nesta página.
-
-## Contato
-
-Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, não hesite em entrar em contato pelo e-mail: denilsondesenvolvimentosapp@gmail.com.
-
-  
-  
-  </p>
-  <ul>
-    <li><a href="privacy-policy.html">Política de Privacidade</a></li>
-    <li><a href="delete-account.html">Exclusão de Conta</a></li>
-    <li><a href="contact.html">Contato / Suporte</a></li>
-  </ul>
+  <nav>
+    <ul>
+      <li><a href="privacy-policy.html">Política de Privacidade</a></li>
+      <li><a href="delete-account.html">Exclusão de Conta</a></li>
+      <li><a href="contact.html">Contato / Suporte</a></li>
+    </ul>
+  </nav>
 </body>
 </html>
