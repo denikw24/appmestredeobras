@@ -55,7 +55,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="https://undraw.co/api/illustrations/svg?color=1565c0&id=account-remove" alt="Exclusão de conta">
+    <img src="[https://undraw.co/api/illustrations/svg?color=1565c0&id=account-remove](https://www.flaticon.com/br/icone-gratis/deletar-conta_7025302?term=delete&page=3&position=42&origin=search&related_id=7025302)" alt="Exclusão de conta">
     <h1>Exclusão de Conta</h1>
     <p>
       Para excluir sua conta e todos os seus dados do aplicativo Mestre de Obra, envie um e-mail para: <br>
