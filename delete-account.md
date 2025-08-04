@@ -1,70 +1,72 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Exclusão de Conta - Mestre de Obra</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      background: #f7f9fb;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
-      margin: 0;
-    }
-    .container {
-      background: #fff;
-      border-radius: 20px;
-      box-shadow: 0 4px 18px rgba(0,0,0,0.10);
-      padding: 36px 32px 24px 32px;
-      max-width: 400px;
-      width: 100%;
-      text-align: center;
-      margin: 20px;
-    }
-    .container img {
-      width: 120px;
-      margin-bottom: 18px;
-    }
-    h1 {
-      color: #1565c0;
-      margin-bottom: 16px;
-      font-size: 1.7rem;
-    }
-    p {
-      color: #222;
-      font-size: 1.13rem;
-      margin-bottom: 15px;
-    }
-    a {
-      color: #1565c0;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    @media (max-width: 500px) {
-      .container {
-        padding: 18px 4px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <img src="[https://undraw.co/api/illustrations/svg?color=1565c0&id=account-remove](https://www.flaticon.com/br/icone-gratis/deletar-conta_7025302?term=delete&page=3&position=42&origin=search&related_id=7025302)" alt="Exclusão de conta">
-    <h1>Exclusão de Conta</h1>
-    <p>
-      Para excluir sua conta e todos os seus dados do aplicativo Mestre de Obra, envie um e-mail para: <br>
-      <a href="mailto:seuemail@email.com">denilsondesenvolvimentosapp@gmail.com.</a> <br>
-      com o assunto <strong>“Excluir Conta”</strong> e informe o e-mail utilizado no app.
-    </p>
-    <p>
-      O prazo para exclusão é de até 7 dias úteis.
-    </p>
-  </div>
-</body>
-</html>
+
+# Exclusão de Dados Pessoais
+
+**Última atualização:** 04 de agosto de 2025
+
+Esta página descreve o procedimento para solicitação de exclusão de conta e dados pessoais no **Mestre de Obra**, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD).
+
+---
+
+## 1. Direito de Exclusão
+
+O titular dos dados pessoais tem o direito de solicitar, a qualquer momento, a eliminação definitiva de suas informações armazenadas em nossos sistemas, incluindo:
+
+- Dados de cadastro (nome, e-mail, etc.)  
+- Registros de uso e logs coletados para diagnóstico de erros  
+- Identificadores de dispositivo (ID de publicidade)  
+- Qualquer outra informação pessoalmente identificável  
+
+---
+
+## 2. Como Solicitar
+
+Para exercer seu direito de exclusão, envie uma mensagem para o seguinte endereço de e-mail:
+
+✉️ **denilsondesenvolvimentosapp@gmail.com**
+
+**Assunto:** Solicitação de Exclusão de Dados
+
+No corpo da mensagem, informe:
+
+1. Nome completo  
+2. Endereço de e-mail utilizado no aplicativo  
+3. Descrição sucinta da solicitação (“Excluir todos os meus dados pessoais”)  
+
+---
+
+## 3. Procedimento e Prazo
+
+1. **Confirmação de Recebimento:** em até 2 (dois) dias úteis, você receberá um e-mail de confirmação com o protocolo de atendimento.  
+2. **Análise e Tratamento:** nossa equipe providenciará a exclusão dos dados em até 10 (dez) dias úteis contados da confirmação de recebimento.  
+3. **Conclusão:** após a eliminação, você receberá e-mail informando o término do procedimento e os registros efetivamente removidos.  
+
+---
+
+## 4. Consequências da Exclusão
+
+- A exclusão é irreversível: todos os seus dados serão apagados, sem possibilidade de restauração.  
+- Você perderá acesso a qualquer conteúdo, configuração ou histórico associado à sua conta.  
+- Caso deseje utilizar o aplicativo novamente, será necessário novo cadastro.  
+
+---
+
+## 5. Exceções Legais
+
+Poderemos reter dados pessoais nas hipóteses previstas em lei, tais como:
+
+- Obrigações fiscais e contábeis  
+- Defesa em eventual processo judicial ou regulatório  
+
+Nestes casos, os dados serão mantidos apenas pelo período legalmente exigido e protegidos conforme nossa Política de Privacidade.
+
+---
+
+## 6. Contato
+
+Em caso de dúvidas ou dificuldades no processo de exclusão, entre em contato:
+
+✉️ denilsondesenvolvimentosapp@gmail.com
+
+---
+
+© 2025 Denilson Santos. Todos os direitos reservados.  
