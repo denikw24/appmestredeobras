@@ -59,7 +59,7 @@
     <h1>Exclusão de Conta</h1>
     <p>
       Para excluir sua conta e todos os seus dados do aplicativo Mestre de Obra, envie um e-mail para: <br>
-      <a href="mailto:seuemail@email.com">seuemail@email.com</a> <br>
+      <a href="mailto:seuemail@email.com">denilsondesenvolvimentosapp@gmail.com.</a> <br>
       com o assunto <strong>“Excluir Conta”</strong> e informe o e-mail utilizado no app.
     </p>
     <p>
